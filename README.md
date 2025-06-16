@@ -1,7 +1,7 @@
 # Network Info GUI Desktop Widget
 
-![image](https://github.com/user-attachments/assets/faa9dca1-186a-4f6c-8570-888df48798d4)
-![widgetinfo](https://github.com/user-attachments/assets/03e75645-a19d-4862-999d-a9e4a4c65a46)
+![Network Widget Screenshot](./images/widgetinfo.png)
+![Full App Screenshot](./images/screenshot-desktop-network.png)
 
 A Python desktop application that displays real-time network information. It provides details on the system's internet connection status, DNS resolution, and adapter information (Wi-Fi/Ethernet). It also includes options to configure network adapters via DHCP or static IP.
 
