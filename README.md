@@ -85,7 +85,7 @@ netsh interface ip set dns name="Wi-Fi" static 8.8.8.8 primary
    * **Set to DHCP** for automatic configuration.
    * **Set Static** to manually configure IP address, subnet mask, gateway, and DNS.
   
-Disclaimer
+## Disclaimer
 This tool was created for personal use to make day-to-day network testing and configuration quicker and more convenient. It is not intended for enterprise environments, production systems, or critical infrastructure.
 
 I’m not a professional software developer, just someone who builds tools for my own stuff. The code is provided as-is, with no guarantees or warranties. Feel free to use it, modify it, or improve it, but use at your own risk.
